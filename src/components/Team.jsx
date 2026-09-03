@@ -11,6 +11,7 @@ import s4 from '../images/s4.jpeg'
 import s3 from '../images/s3.jpeg'
 import s2 from '../images/s2.jpeg'
 import s1 from '../images/s1.jpeg'
+import s2b from '../images/s2b.jpg'
 
 const PageContainer = styled.div`
   background-color: #f8fafc;
@@ -373,7 +374,7 @@ const teamMembers = [
     name: "Mmaduora Amarachi Linda",
     title: "Office Assistant",
     // description: "Directs civil engineering works, estate infrastructure development, and strict site execution standards. (Placeholder slot)",
-    image: s2,
+    image: s2b,
   },
   {
     name: "Chiefs Boniface uchenna Umeh",
