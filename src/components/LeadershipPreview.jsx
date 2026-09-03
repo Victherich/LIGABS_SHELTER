@@ -186,14 +186,14 @@ const LeaderTitleDesc = styled.p`
 const leadersData = [
   {
     name: "High Chief Gabriel Eze Chukwuemeka",
-    role: "Company Owner & Chairman",
+    role: "Founder & Chairman",
     description: "Visionary leader steering the corporate strategic direction, land acquisition, and sustainable real estate development.",
     image: s9,
     icon: <Crown size={14} />,
   },
   {
     name: "Mr. Doncharles Arinze",
-    role: "Company Manager",
+    role: "Manager",
     description: "Directs day-to-day corporate operations, client relations, and administrative project workflows.",
     image: s8,
     icon: <Shield size={14} />,

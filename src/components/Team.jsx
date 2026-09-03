@@ -239,6 +239,7 @@ const MemberImageWrapper = styled.div`
     width: 100%;
     height: 100%;
     object-fit: cover;
+    object-position: top;
     transition: transform 0.5s ease;
   }
 `;
@@ -334,7 +335,7 @@ const CultureBox = styled.div`
 const teamMembers = [
   {
     name: "Mr. Doncharles Arinze",
-    title: "Company Manager",
+    title: "Manager",
     description: "Directs day-to-day corporate operations, administrative workflow execution, and client relationship management.",
     image: s8,
   },
@@ -420,7 +421,7 @@ const Team = () => {
               </RoleBadge>
               <h3>
                 High Chief Gabriel Eze Chukwuemeka
-                <span>Company Owner & Chairman</span>
+                <span>Founder & Chairman</span>
               </h3>
               <p>
                 High Chief Gabriel Eze Chukwuemeka provides the visionary leadership and strategic direction that defines Ligabs Shelter LTD. Under his guidance, the firm has grown into a beacon of trust, security, and exceptional real estate investments in Gudu District, Abuja and beyond.
