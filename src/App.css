@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+:root {
+  --ligabs-blue: #1C3B6B;
+  --ligabs-vibrant-blue: #2B5EE8;
+  --ligabs-gold: #D4AF37;
+  --ligabs-dark: #0A192F;
+  --ligabs-bg-light: #F8FAFC;
+  --ligabs-text-dark: #0F172A;
+  --ligabs-text-muted: #475569;
+}
